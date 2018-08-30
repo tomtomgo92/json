@@ -1,0 +1,22 @@
+{
+        "Prenom": "Romain",
+        "Nom": "F.",
+        "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+        "illustration": "https://media.licdn.com/dms/image/C5603AQHHzfXePdkjiQ/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=hMlAs1x4XD1ZlcyqumcihGeyyKAGWzGwjJvccpp31CE",
+        "competences": [
+           {
+            "employeur": "Chanel",
+            "poste":"Consultant MacOS"
+
+           }
+        ],
+        "Parcours":{
+            "Parcours1":{
+                "employeur": "Chanel",
+                "poste":"Consultant MacOS",
+                "Date": "Juillet",
+                "localisation": "Île-de-France",
+                "quoi":"Masterisation, paramétrage et livraison de Poste aux nouveaux arrivant Support utilisateur Mac Participation aux tests pré-déploiement des logiciels et paquets d’administration"
+            }
+        } 
+    }
